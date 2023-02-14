@@ -12,6 +12,6 @@ public class camera extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_camera);
         WebView myWebView = (WebView) findViewById(R.id.webview);
-        myWebView.loadUrl("https://172.20.10.4/");
+        myWebView.loadUrl("http://172.20.10.4");
     }
 }
