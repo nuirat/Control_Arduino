@@ -29,7 +29,7 @@
         android:layout_height="63dp"
         android:layout_below="@+id/textview"
         android:layout_centerHorizontal="true"
-        android:text="Smart Lock"
+        android:text="Home Lock"
         android:textColor="#03A9F4"
         android:textSize="35dp" />
 
